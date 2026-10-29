@@ -1,0 +1,2 @@
+lol=msgbox("ripristinare il sistema alle impostazioni di default?",4+48,"pc infetto da virus")
+lol=msgbox("attendere... il sistema verra' riavviato a breve, non spegnere il sistema",10,"formattazione in corso")
